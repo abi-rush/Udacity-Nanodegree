@@ -1,2 +1,2 @@
 # Udacity-Nanodegree
-Project code from the completion of the Udacity Nanodegree
+The Udacity Introduction to Machine Learning with TensorFlow Nanodegree required the completion of three projects. The projects had detailed instructions and some sections had code provided. There were many sections (labeled TODO) where we were required to provide code. This code was inspired from the training, online resources, and previous student submissions where available/applicable.
